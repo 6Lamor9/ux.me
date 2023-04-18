@@ -2006,12 +2006,12 @@ html {
   background-color: gray;
 }
 .yiran-image:where(.astro-J7PV25F6) {
-  background-image: url("/Yiran image 1 BL.png");
+  background-image: url("Yiran image 1 BL.png");
   background-position: 70% 100%;
   background-size: cover;
 }
 nav:where(.astro-J7PV25F6) {
-  background-image: url(/photo-1649346716613-d92f359d0c2c.jpg);
+  background-image: url(photo-1649346716613-d92f359d0c2c.jpg);
   background-size: 60% 100%;
   background-position: right;
 }
